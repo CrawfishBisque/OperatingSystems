@@ -3,4 +3,10 @@ Three Functions of an Operating System:
 1: Booting
   Booting is the basic process of starting a computer. When the hardware is powered on, the inital Operating System kernel will be loaded 
   into the computer's main memory, or RAM. Once this has been completed, the computer and OS are ready to run all applications and 
-  programs indicated by the user. "Rebooting" an OS is the process of reloading the kernel without having to restart the computer's hardware.
+  programs indicated by the user. "Rebooting" an OS is the process of reloading the kernel without having to restart the computer's           hardware.
+
+2: Loading and Execution
+  In an Operating System, the Loader is the program responsible for loading other programs and libraries to be run by the OS. An essential
+  stage in starting a program, the loader will move a program into system memory and prepare it for execution. The loader will read the 
+  contents of the executable file which contains the program instructions, then resume any tasks needed to prepare the executale file for     running. Execution is the process in which a computer carries out the instructions coded into the loaded executable file. The terms "Run"
+  or "Execute" are used synonymously.
